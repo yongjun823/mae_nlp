@@ -1,0 +1,10 @@
+pandas
+tqdm
+numpy
+matplotlib
+pprint
+seaborn
+nltk
+gensim
+sklearn
+requests
