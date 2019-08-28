@@ -32,9 +32,9 @@ pip install requirements.txt
 
 ## [image ai label 분석](https://github.com/yongjun823/mae_nlp/blob/master/image%20ai%20label%20word2vec.ipynb)
 
-## [mae title](https://github.com/yongjun823/mae_nlp/blob/master/mae_title.ipynb)
+## [mae title & text 분석](https://github.com/yongjun823/mae_nlp/blob/master/mae_title.ipynb)
 
-## [nltk gensim ibm](https://github.com/yongjun823/mae_nlp/blob/master/nltk%20test%20wor2vec%20doc2vec%20IBM%20API.ipynb)
+## [nltk gensim ibm 사용](https://github.com/yongjun823/mae_nlp/blob/master/nltk%20test%20wor2vec%20doc2vec%20IBM%20API.ipynb)
 
 
 
